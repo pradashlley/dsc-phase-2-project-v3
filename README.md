@@ -17,11 +17,11 @@ Throughout this project, we leverages :
 Descriptive statistics analysis,Data cleaning, exploratory analysis using great features of Pandas,Data Visualization
 
 ## Results
-![Distribution](images/im1.png)
-![Distribution](images/im2.png)
-![Distribution](images/im3.png)
-![Distribution](images/im4.png)
-![Distribution](images/im5.png)
+![Distribution](im1.png)
+![Distribution](im2.png)
+![Distribution](im3.png)
+![Distribution](im4.png)
+![Distribution](im5.png)
 
 
 ## Conclusion
