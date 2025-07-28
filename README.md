@@ -17,8 +17,11 @@ Throughout this project, we leverages :
 Descriptive statistics analysis,Data cleaning, exploratory analysis using great features of Pandas,Data Visualization
 
 ## Results
+Presentation du nombre de film produit par annee
 ![Distribution](im1.png)
+Note recue par les film en fonction du nombre de votes attribuees
 ![Distribution](im2.png)
+Film rapportant le plus
 ![Distribution](im3.png)
 ![Distribution](im4.png)
 ![Distribution](im5.png)
