@@ -30,7 +30,7 @@ One studio, "HC," stands out as a significant outlier, with an average gross rev
 ![Distribution](im4.png)
 
 The total worldwide gross started at approximately $2.4 billion in 2010 and reached its peak in 2017 with a total gross of over $3.1 billion. Following this peak, the total worldwide gross experienced a decrease in 2018, falling to around $2.85 billion. The overall trend indicates a growing global film market during this period.
-![Distribution](im5.png)
+![Distribution](m5.png)
 
 
 ## Conclusion
