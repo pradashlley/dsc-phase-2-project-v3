@@ -17,13 +17,19 @@ Throughout this project, we leverages :
 Descriptive statistics analysis,Data cleaning, exploratory analysis using great features of Pandas,Data Visualization
 
 ## Results
-Presentation du nombre de film produit par annee
+The data shows a general upward trend in the number of movies produced from 2010 to 2017, starting with approximately 12,000 movies in 2010 and reaching a peak of nearly 17,500 in 2017. Following this peak, there was a slight decline in 2018, and a significant drop in 2019 to around 8,000 movies. This decline continued sharply into the years that follow, with production numbers plummeting to under 1,000 films from 2020 to 2025.
 ![Distribution](im1.png)
-Note recue par les film en fonction du nombre de votes attribuees
+
+The data shows a clear distribution of movies receiving ratings in the middle to high range. The distribution is peaking around the 6.3 to 7.2 rating mark, where the number of movies exceeds 2,000. The number of movies decreases significantly as ratings move towards the extreme ends of the scale
 ![Distribution](im2.png)
-Film rapportant le plus
+
+The chart shows that "Marvel's The Avengers" and "Avengers: Age of Ultron" are the top two films, with a worldwide gross exceeding $1.4 billion.  All films on this list have a worldwide gross revenue greater than $1.2 billion, highlighting the massive scale of success for these top-tier films.
 ![Distribution](im3.png)
+
+One studio, "HC," stands out as a significant outlier, with an average gross revenue of over $800 million. This is more than double the average of the second-highest-grossing studio, "PI/DW" which has an average gross of approximately $500 million. The others show a range of average gross revenues between $200 million and $400 million.
 ![Distribution](im4.png)
+
+The total worldwide gross started at approximately $2.4 billion in 2010 and reached its peak in 2017 with a total gross of over $3.1 billion. Following this peak, the total worldwide gross experienced a decrease in 2018, falling to around $2.85 billion. The overall trend indicates a growing global film market during this period.
 ![Distribution](im5.png)
 
 
